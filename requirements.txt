@@ -1,4 +1,3 @@
-FreqDist
 nltk
 punctuation
 requests
