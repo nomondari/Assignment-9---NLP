@@ -1,4 +1,2 @@
 nltk
-punctuation
 requests
-stopwords
