@@ -1,1 +1,5 @@
-
+FreqDist
+nltk
+punctuation
+requests
+stopwords
